@@ -13,3 +13,15 @@ About Page: As a customer, I would like to know more about the Tag Heuer in this
 Feats Page: This page mainly consists of the awards and achievements the Tag Heuer has made. As a customer, I would want to be shown with what Tag Heuer has to offer for feats, so I greet the customers on the page of the several awards Tag Heuer has obtained throughout the years. This way, customers would be impressed over what Tag Heuer has accomplished. Not only that, I would also like to see what kind of people wear this Tag Heuer brand, so I show them the sponsors that Tag Heuer has had to have them get good photoshoots of famous people wearing the watches. This would really show customers that even famous celebrities and actors wear this brand of watches, making customers want to be like their favourite celebrities and buy them too.
 
 Contact Us Page: As a customer, I would want the page to be a clear cut of how to follow Tag Heuer on other online platforms. Thus, I created the page with a simple photo of the Tag Heuer building to show how luxurious the building looks like and all the icons of other social media websites to follow Tag Heuer such as Facebook, Youtube, Twitter, Pinterest, Instagram and LinkedIn. This way, customers would have instant access to all the Tag Heuer accounts on different platforms and follow them.
+
+Search Page: After all these pages, customers may want to go buy our watches. Thus I created another page with a magnifying glass image for a search page to allow customers to go search and buy for watches. I made the magnifying glass at the right side of the website so that customers have a clear view of what to press on for them to search for watches. Even though the customers want a watch, new customers may not know what watch to buy. Hence, I made a section in the search page called recommended. That way, customers may know what kind of watches are deemed better and have a better decision when buying watches. 
+
+#Features
+.Feature 1 - Allows users to have a more interesting experience when tapping on the menu, by having a transform feature in CSS to allow the background colour of the box the mouse is hovering to change colour.
+
+.Feature 2 - Allows users to be able to use this website on the phone, by using media feature in CSS to change the format of the website to fit in a phone screen when the screen size is different.
+
+.Feature 3 - Allows users to be able to search for watches by creating a form feature so that customers could search for a type of phone and press the button feature to search for it.
+
+#Technologies Used
+
