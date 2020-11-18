@@ -16,26 +16,26 @@ Contact Us Page: As a customer, I would want the page to be a clear cut of how t
 
 Search Page: After all these pages, customers may want to go buy our watches. Thus I created another page with a magnifying glass image for a search page to allow customers to go search and buy for watches. I made the magnifying glass at the right side of the website so that customers have a clear view of what to press on for them to search for watches. Even though the customers want a watch, new customers may not know what watch to buy. Hence, I made a section in the search page called recommended. That way, customers may know what kind of watches are deemed better and have a better decision when buying watches. 
 
-# Features
-.Feature 1 - Allows users to have a more interesting experience when tapping on the menu, by having a transform feature in CSS to allow the background colour of the box the mouse is hovering to change colour.
+## Features
+- Feature 1 - Allows users to have a more interesting experience when tapping on the menu, by having a transform feature in CSS to allow the background colour of the box the mouse is hovering to change colour.
 
-.Feature 2 - Allows users to be able to use this website on the phone, by using media feature in CSS to change the format of the website to fit in a phone screen when the screen size is different.
+- Feature 2 - Allows users to be able to use this website on the phone, by using media feature in CSS to change the format of the website to fit in a phone screen when the screen size is different.
 
-.Feature 3 - Allows users to be able to search for watches by creating a form feature so that customers could search for a type of phone and press the button feature to search for it.
+- Feature 3 - Allows users to be able to search for watches by creating a form feature so that customers could search for a type of phone and press the button feature to search for it.
 
 .Features 4 - Allows users to follow Tag Heuer on other platforms, by adding a link to each of the images in Contact Us which leads them straight to the Tag Heuer account of any of the websites mentioned on the page. 
 
-# Technologies Used
-.HTML
-.CSS
-     (These two are the only languages used to make this website)
-.Visual Studio Code - This app is what I used to write my HTML and CSS code
+## Technologies Used
+- HTML
+- CSS
+- (These two are the only languages used to make this website)
+- Visual Studio Code - This app is what I used to write my HTML and CSS code
 
 # Testing
 1. Search form:
-    i. Go to the image of the magnifying glass that leads to the "Search Page"
-   ii. Try to enter a watch type you want to find and watch name is not there, the search will say "Watch Not Found"
-  iii. Try to enter a watch type you want to find and watch name is there, the search will lead to that specific watch you wanted or the watches that consist of the words searched for
+    1. Go to the image of the magnifying glass that leads to the "Search Page"
+    2. Try to enter a watch type you want to find and watch name is not there, the search will say "Watch Not Found"
+    3. Try to enter a watch type you want to find and watch name is there, the search will lead to that specific watch you wanted or the watches that consist of the words searched for
   
 Phone size:
 So the media feature is activated once the width of the webpage is less than 600px. 
