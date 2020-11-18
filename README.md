@@ -23,7 +23,7 @@ Search Page: After all these pages, customers may want to go buy our watches. Th
 
 - Feature 3 - Allows users to be able to search for watches by creating a form feature so that customers could search for a type of phone and press the button feature to search for it.
 
-.Features 4 - Allows users to follow Tag Heuer on other platforms, by adding a link to each of the images in Contact Us which leads them straight to the Tag Heuer account of any of the websites mentioned on the page. 
+- Features 4 - Allows users to follow Tag Heuer on other platforms, by adding a link to each of the images in Contact Us which leads them straight to the Tag Heuer account of any of the websites mentioned on the page. 
 
 ## Technologies Used
 - HTML
