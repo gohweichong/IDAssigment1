@@ -16,7 +16,7 @@ Contact Us Page: As a customer, I would want the page to be a clear cut of how t
 
 Search Page: After all these pages, customers may want to go buy our watches. Thus I created another page with a magnifying glass image for a search page to allow customers to go search and buy for watches. I made the magnifying glass at the right side of the website so that customers have a clear view of what to press on for them to search for watches. Even though the customers want a watch, new customers may not know what watch to buy. Hence, I made a section in the search page called recommended. That way, customers may know what kind of watches are deemed better and have a better decision when buying watches. 
 
-#Features
+# Features
 .Feature 1 - Allows users to have a more interesting experience when tapping on the menu, by having a transform feature in CSS to allow the background colour of the box the mouse is hovering to change colour.
 
 .Feature 2 - Allows users to be able to use this website on the phone, by using media feature in CSS to change the format of the website to fit in a phone screen when the screen size is different.
@@ -53,9 +53,12 @@ Contact Page: The wide image of a Tag Heuer building is taken out due to the wid
 Search Page: The search text and the search bar is centres as the screen is smaller. The recommended watches are placed more vertically instead of horizontally to accomodate for the lesser width of the screen. 
 
 ## Credits
-###Content
+### Content
  - The text for the about me section was copied from the [Tag Heuer](https://www.tagheuer.com/sg/en/company/about-us.html)
  - The text for the awards section was mainly taken from [wikipedia](https://en.wikipedia.org/wiki/TAG_Heuer)
  
- ### Media
+### Media
  - The photos used in this site were from [Watches from Jomashop](https://www.jomashop.com/tag-heuer-watch-caz1014-ba0842.html?&utm_source=google&utm_medium=organic&utm_campaign=surfaces-across-google), [Tag Heuer Logo](https://toppng.com/tag-heuer-logo-okinawa-churaumi-aquarium-PNG-free-PNG-Images_440122?search-result=www-logo),  [Home page watches](https://www.wallpapertip.com/wpic/iTRmxmo_tag-heuer-wallpaper/), [Chris Hemsworth](https://www.popsugar.com/celebrity/Chris-Hemsworth-Tag-Heuer-Event-Australia-February-2016-40061604), [Leonardo Dicaprio](https://in.pinterest.com/pin/62839357280156634/), [Contact Page Building Image](https://monochrome-watches.com/tag-heuer/), [Feats Page store image](https://store.tagheuer.com/155650-all-watches-bugis-junction), [Contact page social media logo](https://www.flaticon.com/free-icon/twitter-logo-on-black-background_60580)
+
+### Acknoledgements
+- I Received inspiration for this project from [Tag Heuer](https://www.tagheuer.com/sg/en/?gclid=Cj0KCQiAqdP9BRDVARIsAGSZ8AlnoAT257IkEVxjqrBQlFUd7Nv2eE4lLnj7VOdkDyKo09EI5Ei2SZ8aAkSIEALw_wcB)
