@@ -21,7 +21,7 @@ ul{list-style: none;}
 }
 .flex-item:hover{
     background-color: #5f5100;
-    width: 128px;
+    width: 50px;
     height: 60px;
 }
 .logo_center{
