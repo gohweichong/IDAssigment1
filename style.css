@@ -21,7 +21,7 @@ ul{list-style: none;}
 }
 .flex-item:hover{
     background-color: #5f5100;
-    width: 1280px;
+    width: 128px;
     height: 60px;
 }
 .logo_center{
@@ -308,7 +308,7 @@ h2,h3,h4,h5{
     .founder{
         position: absolute;
         left:5%;
-        width:200%;
+        width:200px;
     }
 
     .right1_about{
