@@ -313,7 +313,7 @@ h2,h3,h4,h5{
 
     .right1_about{
         position: absolute;
-        left:33%;
+        left:23%;
         top:115%;
         font-family: 'Aref Ruqaa', serif;
         font-family: 'Work Sans', sans-serif;
@@ -324,7 +324,7 @@ h2,h3,h4,h5{
         position: absolute;
         left: 20%;
         right: 20%;
-        top: 125%;
+        top: 120%;
         line-height: 1.5;
         font-family: 'Aref Ruqaa', serif;
         font-family: 'Work Sans', sans-serif;
