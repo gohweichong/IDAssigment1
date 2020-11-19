@@ -302,13 +302,13 @@ h2,h3,h4,h5{
     /*About page*/
     .watch_about{
         width:100%;
-        height:50%;
+        height:30%;
     }
   
     .founder{
         position: absolute;
         left:5%;
-        width:30%;
+        width:70%;
     }
 
     .right1_about{
