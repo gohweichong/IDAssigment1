@@ -332,16 +332,16 @@ h2,h3,h4,h5{
 
     .pressure_about{
         position: absolute;
-        top: 188%;
+        top: 192%;
         width:97%;
         height: 50%;
     }    
 
     .pr_about{
         position: absolute;
-        left: 2%;
+        left: 3%;
         right: 60%;
-        top: 186%;
+        top: 190%;
         color:black;
     }
 
