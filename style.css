@@ -337,15 +337,16 @@ h2,h3,h4,h5{
         position: absolute;
         top: 192%;
         width:97%;
-        height: 50%;
+        height: 40%;
     }    
 
     .pr_about{
         position: absolute;
         left: 3%;
         right: 60%;
-        top: 190%;
+        top: 200%;
         color:black;
+        font-size:3vw;
     }
 
     /*Feats page*/
