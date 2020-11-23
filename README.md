@@ -1,4 +1,4 @@
-# Tag-Heuer-Website
+# Tag Heuer Website
 I created a website about Tag Heuer, a luxury watch company that is known worldwide. However, I am making a website about the backstory of Tag Heuer and what they strive to be. The site's users are mainly old or new customers who wish to learn more about the history of Tag Heuer, the sponsors and awards Tag Heuer has achieved and more insight on the people Tag Heuer work with. 
 
 As the sight owner, I am trying to interest people into wanting to buy the Tag Heuer watches by showing them Tag Heuer's long history and the awards Tag Heuer has gotten. The website will also attract customers by showing customers their favourite celebrities that wear or work with Tag Heuer. With this, I will be able to sell the more watches and get more customers to keep on buying our watches.
