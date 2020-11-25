@@ -68,42 +68,29 @@ a {text-decoration:none;}
     margin-left: auto;
     margin-right: auto;
 }
-.founder {
-    border-radius: 25px;
-    background: #000000;
-    padding: 5px;
-    position: absolute;
-    left: 12%;
-} 
+.founder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .right1_about{
-    position: absolute;
-    right:28%;
-    font-family: 'Aref Ruqaa', serif;
-    font-family: 'Work Sans', sans-serif;
+    text-align: center;
 }
 .right2_about{
     color:rgb(233, 233, 233);
-    position: absolute;
-    left: 55%;
-    right: 20%;
-    top: 92%;
+    text-align: center;
+    float: center;
     line-height: 1.5;
     font-family: 'Aref Ruqaa', serif;
     font-family: 'Work Sans', sans-serif;
 }
 .pr_about{
-    position: absolute;
-    left: 2%;
-    right: 80%;
-    top: 170%;
-    color:black;
+    text-align:center;
+    float:left;
+    color:white;
 } 
-.pressure_about{
-    position: absolute;
-    top: 135%;
-    width:99%;
-    height: 100%;
-}
+
 
 /*Feats Page*/
 .pda_logo{
@@ -133,13 +120,13 @@ a {text-decoration:none;}
 .bw_title_patrons{
     color:black;
     position: absolute;
-    top:150%;
+    top:170%;
     right: 33.5%;
 }
 .bw_para_patrons{
     color:black;
     position: absolute;
-    top:155%;
+    top:175%;
     left: 60%;
     right: 10%;
 }
@@ -149,12 +136,12 @@ a {text-decoration:none;}
 }
 .leonardo_logo{
     position: absolute;
-    top:150%;
+    top:170%;
     left:13%;
 }
 .chris_logo{
     position: absolute;
-    top:135%;
+    top:155%;
     left:9%;
 }
 
@@ -220,13 +207,13 @@ a {text-decoration:none;}
 }
 .searchbar{
     position:absolute;
-    top:28%;
+    top:32%;
     left:37%;
     width:20%;
 }
 .searchbutton{
     position:absolute;
-    top:28%;
+    top:32%;
     left:58%;
 }
 .white_search{
@@ -242,7 +229,7 @@ a {text-decoration:none;}
 .bw_t1{
     color:black;
     position: absolute;
-    top: 92%;
+    top: 105%;
     left:12%;
     right:75%;
     
@@ -250,14 +237,14 @@ a {text-decoration:none;}
 .bw_t2{
     color:black;
     position: absolute;
-    top: 92%;
+    top: 105%;
     left:45%;
     right:40%;
 }
 .bw_t3{
     color:black;
     position: absolute;
-    top: 92%;
+    top: 105%;
     left:77%;
     right:10%;
 }
@@ -326,33 +313,22 @@ h2,h3,h4,h5{
     }
   
     .founder{
-        position: absolute;
-        left:5%;
-        width:87%;
-    }
-
-    .right1_about{
-        position: absolute;
-        left:23%;
-        top:115%;
-        font-family: 'Aref Ruqaa', serif;
-        font-family: 'Work Sans', sans-serif;
+        
     }
     
     .right2_about{
         color:rgb(233, 233, 233);
-        position: absolute;
-        left: 20%;
-        right: 20%;
-        top: 120%;
         line-height: 1.5;
+        float:center;
+        text-align:left;
+        width:100%;
         font-family: 'Aref Ruqaa', serif;
         font-family: 'Work Sans', sans-serif;
     }
 
     .pressure_about{
         position: absolute;
-        top: 192%;
+        top: 162%;
         width:97%;
         height: 40%;
     }    
@@ -361,9 +337,9 @@ h2,h3,h4,h5{
         position: absolute;
         left: 3%;
         right: 60%;
-        top: 200%;
+        top: 170%;
         color:black;
-        font-size:3vw;
+        font-size:2vw;
     }
 
     /*Feats page*/
