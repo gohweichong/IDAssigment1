@@ -4,9 +4,7 @@ ul{list-style: none;}
 .blackbg{
     background-color: black;
 }
-.black{
-    background-color: black;
-}
+
 
 a {text-decoration:none;}
 
@@ -81,7 +79,8 @@ a {text-decoration:none;}
     background-color: black;
     background-image: url('whitespace.jpg');
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 0% 100%;
+    background-repeat: no-repeat;
 }
 .founder{
     display: block;
@@ -107,6 +106,10 @@ a {text-decoration:none;}
 
 
 /*Feats Page*/
+.center_ach{
+    width:100%;
+    height:auto;
+}
 .pda_logo{
     position: absolute;
     top:70%;
@@ -151,12 +154,12 @@ a {text-decoration:none;}
 .leonardo_logo{
     position: absolute;
     top:170%;
-    left:13%;
+    left:7%;
 }
 .chris_logo{
     position: absolute;
     top:155%;
-    left:9%;
+    left:2%;
 }
 
 /*Contact Page*/
@@ -184,8 +187,8 @@ a {text-decoration:none;}
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:12%;
-    height:10%;
+    width:50px;
+    height:50px;
 }
 .insta_logo{
     display: block;
@@ -207,6 +210,9 @@ a {text-decoration:none;}
     margin-right: auto;
     width:30%;
     height:30%;
+}
+.menu2 > li{
+    width:90%;
 }
 
 /*Search Page*/
