@@ -33,8 +33,8 @@ Search Page: After all these pages, customers may want to go buy our watches. Th
 
 # Testing
 ### Validation and Code Checks
-1. The HTML code passes through the official W3C validator with no issues
-2.the CSS code passes through the official (Jigsaw) validator with no issues
+- The HTML code passes through the official W3C validator with no issues
+- The CSS code passes through the official (Jigsaw) validator with no issues
 
 ### Non-automated pages
 1. Search form:
