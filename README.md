@@ -8,7 +8,7 @@ Heading Menu: All pages of the website will start of with a header menu that sho
 
 Home Page: As a customer, I want to buy a watch from a brand that exudes luxury. Thus I created a design with a slick black background, so that the whole website looks more mysterious, mature and luxurious. The customers would also want to know how the Tag Heuer watches look like, so I made sure that the home page would show the a good picture of a good pile of watches to attract customers based on the looks of the luxurious watches. I also added a phrase saying "Pushing The Limits of Watches to Greater Heights Since 1860" to impress customers or draw them in because of how long Tag Heuer has been created. A video is right below the screen to show the newest watch that Tagheuer is selling, this is a quick way to pull in customers who want a good look at our watches.
 
-About Page: As a customer, I would like to know more about the Tag Heuer in this page. The about page is then started with a heading that says About and a photo of another watch in it. The page is about the history of the founder and how he started the Tag Heuer business. Adding on I add on the hashtag that our company promotes "#DontCrackUnderPressure" to show customers our work mindset when it comes to Tag Heuer, and I add on a photo of a man doing a rigorous task but trying hard to struggle through. This photo will emphasize the mindset of #DontCrackUnderPressure and will help relay our message even better. Through these methods, the customer would have a good understanding of how the company came about and be impressed with the company's goals.
+About Page: As a customer, I would like to know more about the Tag Heuer in this page. The about page is then started with a heading that says About and a photo of another watch in it. The page is about the history of the founder and how he started the Tag Heuer business. Adding on I add on the hashtag that our company promotes "#DontCrackUnderPressure" to show customers our work mindset when it comes to Tag Heuer, and I add on a photo of a man doing a rigorous task but trying hard to struggle through. This photo will emphasize the mindset of #DontCrackUnderPressure and will help relay our message even better. In addition, I added another paragraph below about the precision and hardwork through the watches Tag Heuer makes. Through these methods, the customer would have a good understanding of how the company came about and be impressed with the company's goals and how dedicated Tag Heuer is with their watches.
 
 Feats Page: This page mainly consists of the awards and achievements the Tag Heuer has made. As a customer, I would want to be shown with what Tag Heuer has to offer for feats, so I greet the customers on the page of the several awards Tag Heuer has obtained throughout the years. This way, customers would be impressed over what Tag Heuer has accomplished. Not only that, I would also like to see what kind of people wear this Tag Heuer brand, so I show them the sponsors that Tag Heuer has had to have them get good photoshoots of famous people wearing the watches. This would really show customers that even famous celebrities and actors wear this brand of watches, making customers want to be like their favourite celebrities and buy them too.
 
@@ -32,6 +32,8 @@ Search Page: After all these pages, customers may want to go buy our watches. Th
 - Visual Studio Code - This app is what I used to write my HTML and CSS code
 
 # Testing
+### All the testing were done on Google Chrome
+- Google chrome allows for the website to be seen in both wide screen and phone screen, allowing me to see the website in all sizes to check the responsiveness of the website
 ### Validation and Code Checks
 - The HTML code passes through the official W3C validator with no issues
 - The CSS code passes through the official (Jigsaw) validator with no issues
@@ -56,6 +58,10 @@ Feats Page: Firstly, the wide image of a Tag Heuer shop is taken out due to the 
 Contact Page: The wide image of a Tag Heuer building is taken out due to the width being too large. The page just shows the Folow Us text with the images of each link placed differently which is more vertically instead of horizontally to accomodate for the lesser width of the screen.
 
 Search Page: The search text and the search bar is centres as the screen is smaller. The recommended watches are placed more vertically instead of horizontally to accomodate for the lesser width of the screen. 
+
+### Interesting bugs or things I have learnt
+- Since most of my background is black color, I had to use a blank white jpg image as the background as making a body background white in color makes all teh edges in the website white as well.
+- Most of these side by side image and text formatting is used with flex boxes, that way you can switch it when it is on a smaller screen by using flex-direction: column.
 
 ## Credits
 ### Content
