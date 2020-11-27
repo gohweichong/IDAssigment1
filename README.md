@@ -6,7 +6,7 @@ As the sight owner, I am trying to interest people into wanting to buy the Tag H
 # Design Process(Wireframe)
 Heading Menu: All pages of the website will start of with a header menu that show all five web pages. Home, About, Feats, Contact Us and an image of a magnifying glass that will represent the search page. There will also be the Tag Heuer logo at the top left to always indicate the website of the company.
 
-Home Page: As a customer, I want to buy a watch from a brand that exudes luxury. Thus I created a design with a slick black background, so that the whole website looks more mysterious, mature and luxurious. The customers would also want to know how the Tag Heuer watches look like, so I made sure that the home page would show the a good picture of a good pile of watches to attract customers based on the looks of the luxurious watches. I also added a phrase saying "Pushing The Limits of Watches to Greater Heights Since 1860" to impress customers or draw them in because of how long Tag Heuer has been created.
+Home Page: As a customer, I want to buy a watch from a brand that exudes luxury. Thus I created a design with a slick black background, so that the whole website looks more mysterious, mature and luxurious. The customers would also want to know how the Tag Heuer watches look like, so I made sure that the home page would show the a good picture of a good pile of watches to attract customers based on the looks of the luxurious watches. I also added a phrase saying "Pushing The Limits of Watches to Greater Heights Since 1860" to impress customers or draw them in because of how long Tag Heuer has been created. A video is right below the screen to show the newest watch that Tagheuer is selling, this is a quick way to pull in customers who want a good look at our watches.
 
 About Page: As a customer, I would like to know more about the Tag Heuer in this page. The about page is then started with a heading that says About and a photo of another watch in it. The page is about the history of the founder and how he started the Tag Heuer business. Adding on I add on the hashtag that our company promotes "#DontCrackUnderPressure" to show customers our work mindset when it comes to Tag Heuer, and I add on a photo of a man doing a rigorous task but trying hard to struggle through. This photo will emphasize the mindset of #DontCrackUnderPressure and will help relay our message even better. Through these methods, the customer would have a good understanding of how the company came about and be impressed with the company's goals.
 
@@ -32,12 +32,17 @@ Search Page: After all these pages, customers may want to go buy our watches. Th
 - Visual Studio Code - This app is what I used to write my HTML and CSS code
 
 # Testing
+### Validation and Code Checks
+1. The HTML code passes through the official W3C validator with no issues
+2.the CSS code passes through the official (Jigsaw) validator with no issues
+
+### Non-automated pages
 1. Search form:
     1. Go to the image of the magnifying glass that leads to the "Search Page"
     2. Try to enter a watch type you want to find and watch name is not there, the search will say "Watch Not Found"
     3. Try to enter a watch type you want to find and watch name is there, the search will lead to that specific watch you wanted or the watches that consist of the words searched for
   
-Phone size:
+### Test on Phone size:
 So the media feature is activated once the width of the webpage is less than 600px. 
 So once the page is leser than 600px, the following changes will occur:
 Header Menu: The menu will become more compact but will still be able to fit all the words and contents on top nicely.
