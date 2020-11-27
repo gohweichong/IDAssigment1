@@ -200,14 +200,18 @@ a {text-decoration:none;}
 
 /*Contact Page*/
 .youtube_logo{
-    position: absolute;
-    left: 52.5%;
-    top: 79.5%
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:55px;
+    height:auto;
 }
 .facebook_logo{
-    position: absolute;
-    left: 61.5%;
-    top: 78.5%
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:60px;
+    height:auto;
 }
 .linkedin_logo{
     position: absolute;
@@ -223,15 +227,15 @@ a {text-decoration:none;}
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:50px;
-    height:50px;
+    width:40px;
+    height:auto;
 }
 .insta_logo{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width:40%;
-    height:40%;
+    height:auto;
 }
 .center{
     display: block;
@@ -244,8 +248,8 @@ a {text-decoration:none;}
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:30%;
-    height:30%;
+    width:20%;
+    height:auto;
 }
 .menu2 > li{
     width:90%;
@@ -374,6 +378,10 @@ h2,h3,h4,h5{
         width:99%;
         height:400px;;
     }
+    .home_flex{
+        display:flex;
+        flex-direction: column;
+    }
 
     /*About page*/
     .watch_about{
@@ -402,7 +410,6 @@ h2,h3,h4,h5{
         color:rgb(233, 233, 233);
         line-height: 1.5;
         text-align:left;
-        width:100%;
         font-family: 'Aref Ruqaa', serif;
         font-family: 'Work Sans', sans-serif;
     }
@@ -442,7 +449,7 @@ h2,h3,h4,h5{
     .white_ach{
         position: absolute;
         top:18%;
-        height:200%;
+        height:210%;
         width:96%;
     }
     .pda_logo{
@@ -507,6 +514,20 @@ h2,h3,h4,h5{
     }
     .menu2 > li{
         margin: 16px;
+    }
+    .insta_logo{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:30%;
+        height:auto;
+    }
+    .l_center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:12%;
+        height:auto;
     }
     
     /*Search page*/
