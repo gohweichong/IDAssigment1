@@ -32,6 +32,8 @@ Search Page: After all these pages, customers may want to go buy our watches. Th
 - Visual Studio Code - This app is what I used to write my HTML and CSS code
 
 # Testing
+### All the testing were done on Google Chrome
+- Google chrome allows for the website to be seen in both wide screen and phone screen, allowing me to see the website in all sizes to check the responsiveness of the website
 ### Validation and Code Checks
 - The HTML code passes through the official W3C validator with no issues
 - The CSS code passes through the official (Jigsaw) validator with no issues
